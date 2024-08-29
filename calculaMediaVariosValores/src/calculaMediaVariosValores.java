@@ -46,7 +46,7 @@ public class calculaMediaVariosValores {
           System.out.println("Nenhuma nota foi inserida.");
       }
         
-        
+        scanner.close();
     }
 
 }
